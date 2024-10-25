@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seannkelleyy
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Networking, Software Architecture and Kubernetes
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me seannkelleyy1@gmail.com
 
